@@ -1,0 +1,14 @@
+{
+  "usernameField": "[data-test='username']",
+  "passwordField": "[data-test='password']",
+  "loginButton": "[data-test='login-button']",
+  "standard": "standard_user",
+  "glitch": "performance_glitch_user",
+  "locked": "locked_out_user",
+  "problem": "problem_user",
+  "password":"secret_sauce",
+  "pageTitle": ".title",
+  "productImage" : ".inventory_item_img",
+  "errorButton": "[data-test='error']",
+  "errorMessage": "Epic sadface: Sorry, this user has been locked out."
+}

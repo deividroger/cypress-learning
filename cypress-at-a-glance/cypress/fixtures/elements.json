@@ -1,0 +1,9 @@
+{
+  "textBox": "input#twotabsearchtextbox",
+  "searchButton": "input#nav-search-submit-button",
+  "ferrari": "Ferrari",
+  "iPhone": "iPhone 13",
+  "pixelPro": "Google Pixel 6",
+  "resultHeader": "#search > span > div > h1 > div > div.sg-col-14-of-20.sg-col.s-breadcrumb.sg-col-10-of-16.sg-col-6-of-12 > div > div > span:nth-child(1)",
+  "itemHeader": "#search > span > div > h1 > div > div.sg-col-14-of-20.sg-col.s-breadcrumb.sg-col-10-of-16.sg-col-6-of-12 > div > div > span.a-color-state.a-text-bold"
+}
